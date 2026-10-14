@@ -1,4 +1,4 @@
-# ⚡ Self-Healing Code Reviewer
+# Self-Healing Code Reviewer
 
 An AI-powered code generation and review system built using **LangGraph, LangChain, Streamlit, and Groq**. The application generates code from natural-language problem statements, reviews it using an LLM, and iteratively attempts to correct issues based on reviewer feedback.
 
